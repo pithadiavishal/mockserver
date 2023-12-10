@@ -1,0 +1,13 @@
+[
+  {
+    "id": "test",
+    "httpRequest": {
+      "method": "GET",
+      "path": "/api/resource"
+    },
+    "httpResponse": {
+      "statusCode": 200,
+      "body": "Hello, World!"
+    }
+  }
+]

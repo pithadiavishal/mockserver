@@ -1,0 +1,13 @@
+[
+  {
+    "id": "health-api",
+    "httpRequest": {
+      "method": "GET",
+      "path": "/health"
+    },
+    "httpResponse": {
+      "statusCode": 200,
+      "body": "mock server up and running!"
+    }
+  }
+]
